@@ -35,12 +35,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color: #800020;
+  color: #1B3A5C;
   text-decoration: none;
 }
 
 a:hover {
-  color: #069;
+  color: #4A90D9;
 }
 
 a small {
@@ -76,12 +76,12 @@ header .fa-brands {
   margin-right: 12px;
   margin-bottom: 10px;
   font-size: 18px;
-  color: #800020;
+  color: #1B3A5C;
 }
 
 header .fa:hover,
 header .fa-brands:hover {
-  color: #069;
+  color: #4A90D9;
 }
 
 header h3 {
